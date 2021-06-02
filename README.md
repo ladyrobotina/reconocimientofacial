@@ -4,11 +4,12 @@ Este reconocimiento se utiliza actualmente en Facebook y en otras app que pueden
 
 📱 Lo que hace
 
-
+![red](https://github.com/valerisvso/comicstore/blob/main/calabozo.jpg)
+![red](https://github.com/valerisvso/comicstore/blob/main/calabozo.jpg)
 
 💻 Muestra
 
-
+![muestra](https://github.com/valerisvso/comicstore/blob/main/calabozo.jpg)
 
 📚 Technical Details
 Built entirely:
