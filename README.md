@@ -5,7 +5,7 @@ Este reconocimiento se utiliza actualmente en Facebook y en otras app que pueden
 📱 Lo que hace
 
 ![red](https://github.com/valerisvso/reconocimientofacial/blob/master/reconocimiento%20facial2.jpg)
-![red](https://github.com/valerisvso/comicstore/blob/main/calabozo.jpg)
+![red](https://github.com/valerisvso/reconocimientofacial/blob/master/reconocimiento%20facial.jpg)
 
 💻 Muestra
 
