@@ -9,15 +9,17 @@ Este reconocimiento se utiliza actualmente en Facebook y en otras app que pueden
 
 💻 Muestra
 
-![muestra](https://github.com/valerisvso/comicstore/blob/main/calabozo.jpg)
+![muestra](https://github.com/valerisvso/reconocimientofacial/blob/master/reconocimiento%20facial3.jpg)
 
 📚 Technical Details
 Built entirely:
 - Python
 
 ⚒ Documentacion
-https://pypi.org/project/opencv-contrib-python/
-https://droidcam-client.uptodown.com/windows
+- https://droidcam-client.uptodown.com/windows
+- https://pypi.org/project/opencv-contrib-python/
+
+
 
 👉 Funcionamiento
 Si desea funcionar con la camara de su Smartphone debe instalar la app driocam en su telefono, o puede utilizar un video que ya tenga en su computadora.
